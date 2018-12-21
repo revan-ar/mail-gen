@@ -1,3 +1,3 @@
-# Email Filter & Filter
+# Email Filter & Generator
 # Coded By : Revan AR
 # { IndoSec }
